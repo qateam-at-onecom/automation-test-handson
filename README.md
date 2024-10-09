@@ -3,10 +3,14 @@
 ## Instructions
 
 ```
-1. Create a new PRIVATE Github repository.  Type in your email in the README in your private repo for understanding.  Add "one.comindia.qatest@gmail.com" as a collaborator.
-2. Read and understand the questions carefully before attempting them.
-3. Record your assumptions about anything in a file for interviewers to consider.
-4. This is a CONFIDENTIAL material of one.com and should not be shared with anyone else.
+1. Create a new PRIVATE Github repository. Type in your email in the README in your private repo for understanding. Add "one.comindia.qatest@gmail.com" as a collaborator.
+2. **Fork the Repo:** The candidate should create a personal copy (or "fork") of the repository on their own GitHub account. This is done using the "Fork" button on the repository's page. Forking creates a separate instance of the repository where the candidate can make changes without affecting the original.
+3. **Commit Their Work:** The candidate is expected to make changes or additions to the codebase within their forked repository. After making the changes, they will use Git's commit command to save these changes in their forked version of the repo. Commits represent snapshots of the project's history, documenting what was changed and why.
+4. **Push Changes to Their Forked Repo:** After committing, the candidate will push (upload) the changes from their local machine to their forked repository on GitHub. These updates remain in their forked version, isolated from the original repository.
+5. Read and understand the questions carefully before attempting them.
+6. Record your assumptions about anything in a file for interviewers to consider.
+7. **This is a CONFIDENTIAL material of one.com and should not be shared with anyone else.**
+
 ```
 
 ## Assignment-1
@@ -17,7 +21,7 @@
 
 1. **Project Structure Setup**
    - Open your IDE tool.
-   - Design an automation framework project structure.
+   - Design a basic automation framework project structure.
 
 ## Assignment-2
 
