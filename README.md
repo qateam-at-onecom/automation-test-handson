@@ -3,8 +3,9 @@
 ## Instructions
 
 ```
-1. Create a new PRIVATE Github repository. Type in your email in the README in your private repo for understanding. Add "one.comindia.qatest@gmail.com" as a collaborator.
-2. Fork the Repo: The candidate should create a personal copy (or "fork") of the repository on their own GitHub account. This is done using the "Fork" button on the repository's page. Forking creates a separate instance of the repository where the candidate can make changes without affecting the original.
+
+1. Fork the Repo: The candidate should create a personal copy (or "fork") of the repository on their own GitHub account. This is done using the "Fork" button on the repository's page. Forking creates a separate instance of the repository where the candidate can make changes without affecting the original.
+2. Type in your email in the README in your private repo for understanding. Add "one.comindia.qatest@gmail.com" as a collaborator.
 3. Commit Their Work: The candidate is expected to make changes or additions to the codebase within their forked repository. After making the changes, they will use Git's commit command to save these changes in their forked version of the repo. Commits represent snapshots of the project's history, documenting what was changed and why.
 4. Push Changes to Their Forked Repo: After committing, the candidate will push (upload) the changes from their local machine to their forked repository on GitHub. These updates remain in their forked version, isolated from the original repository.
 5. Read and understand the questions carefully before attempting them.
